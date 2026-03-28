@@ -1,6 +1,10 @@
 # maksika.github.io
 Be present
 
+# Links
+
+* [8004 on Celo #3183](https://8004scan.io/agents/celo/3183)
+
 # Graphics
 ![Ajanta](./img/avatar-maksika-ajanta.png)
 
